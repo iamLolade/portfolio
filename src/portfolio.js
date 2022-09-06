@@ -31,7 +31,7 @@ const projects = [
   {
     name: 'Cliff',
     description:
-      "Book List Demo Application. It is used to keeps track of the number of books, stores list of books and add/remove the book's title and author’s name to/from the list",
+      "Book List Demo Application. It is used to keep track of the number of books, stores list of books and add/remove the book's title and author’s name to/from the list",
     stack: ['CSS', 'React', 'Hooks', 'Context'],
     sourceCode: 'https://github.com/iamLolade/cliff',
     livePreview: 'https://cliffbooks.netlify.app',
