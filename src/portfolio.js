@@ -10,7 +10,7 @@ const about = {
   role: 'Frontend Engineer',
   description:
     'I am a software engineer interested in building applications with beautiful user interfaces; that lead to a satisfactory user experience. I thrive on building quality applications that surpass end users’ expectations.',
-  resume: 'https://drive.google.com/file/d/1d8r3LKJk099wovqaG66b62YTEgcDv6CZ/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1XoPG91UI8GyhCmtdSJBq9nmfi7ISnOc-/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/ololade-otemade-72959613a/',
     github: 'https://github.com/iamLolade',
