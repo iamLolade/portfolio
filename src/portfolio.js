@@ -21,20 +21,20 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Tipex',
-    description:
-      `Single-page application, implementing JavaScript Document Object Model (DOM) manipulation. User can input text and make grammatical corrections.`,
-    stack: ['HTML', 'CSS', 'JavaScript'],
-    sourceCode: 'https://github.com/iamLolade/tipex',
-    livePreview: 'https://iamlolade.github.io/tipex/',
-  },
-  {
     name: 'Cliff',
     description:
       "Book List Demo Application. It is used to keep track of the number of books, stores list of books and add/remove the book's title and author’s name to/from the list",
     stack: ['CSS', 'React', 'Hooks', 'Context'],
     sourceCode: 'https://github.com/iamLolade/cliff',
     livePreview: 'https://cliffbooks.netlify.app',
+  },
+  {
+    name: 'Udux',
+    description:
+      'Music player dashboard user-interface (UI). Created with react, styled-components and gsap',
+    stack: ['Gsap', 'Styled-Components', 'React', 'Hooks'],
+    sourceCode: 'https://github.com/iamLolade/udux_player',
+    livePreview: 'https://uduxplayer.netlify.app/',
   },
   {
     name: 'Konoha',
@@ -54,9 +54,11 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
+  'Next',
   'Redux',
   'SASS',
   'Material UI',
+  'Styled-Components',
   'Git',
   'CI/CD',
   'Jest',
