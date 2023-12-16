@@ -9,8 +9,8 @@ const about = {
   name: 'Ololade Otemade',
   role: 'Frontend Engineer',
   description:
-    'I am a software engineer interested in building applications with beautiful user interfaces; that lead to a satisfactory user experience. I thrive on building quality applications that surpass end users’ expectations.',
-  resume: 'https://drive.google.com/file/d/1XoPG91UI8GyhCmtdSJBq9nmfi7ISnOc-/view?usp=sharing',
+    'I am detail-oriented software engineer dedicated to crafting user-friendly applications and delivering exceptional user experiences. Passionate about leveraging my expertise to ensure the highest standards of security in fintech development. Committed to excellence, I excel in creating quality applications that consistently exceed user expectations.',
+  resume: 'https://drive.google.com/file/d/1I-mD2TGvZRaPnFZkUgzw2Lt_tQyTWB2M/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/ololade-otemade-72959613a/',
     github: 'https://github.com/iamLolade',
@@ -21,28 +21,28 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Cliff',
+    name: 'Fluently',
     description:
-      "Book List Demo Application. It is used to keep track of the number of books, stores list of books and add/remove the book's title and author’s name to/from the list",
-    stack: ['CSS', 'React', 'Hooks', 'Context'],
-    sourceCode: 'https://github.com/iamLolade/cliff',
-    livePreview: 'https://cliffbooks.netlify.app',
+      "Your interactive language companion for immersive learning! Engage in conversations with native speakers, refine pronunciation, access language resources, connect with tutors, and track progress for a personalized learning experience.",
+    stack: ['Chakra UI', 'Next', 'Hooks', 'SEO'],
+    sourceCode: 'https://github.com/joeephwild/fluently-app',
+    livePreview: 'https://fluently-app.vercel.app',
   },
   {
-    name: 'Udux',
+    name: 'Grocerease',
     description:
-      'Music player dashboard user-interface (UI). Created with react, styled-components and gsap',
-    stack: ['Gsap', 'Styled-Components', 'React', 'Hooks'],
-    sourceCode: 'https://github.com/iamLolade/udux_player',
-    livePreview: 'https://uduxplayer.netlify.app/',
+      'Your virtual marketplace for all things groceries! Effortlessly browse products, explore categories, access services, and purchase your grocery. ',
+    stack: ['Tailwind CSS', 'Next', 'Typescript', 'Hooks'],
+    sourceCode: 'https://github.com/iamLolade/grocerease-store',
+    livePreview: 'https://grocerease-store.vercel.app',
   },
   {
-    name: 'Konoha',
+    name: 'Grocerease - Admin',
     description:
-      'Konoha is a memory game based of the famous anime "Naruto". Test your memory today, complete the game by matching all duplicate Naruto characters',
-    stack: ['SASS', 'React', 'Hooks'],
-    sourceCode: 'https://github.com/iamLolade/konoha',
-    livePreview: 'https://konohagame.netlify.app',
+      'Your central command for managing the grocery store! Effortlessly oversee products, analyze sales, access analytics, and stay connected for a streamlined administrative experience.',
+    stack: ['Tailwind CSS', 'Next', 'Typescript', 'Hooks'],
+    sourceCode: 'https://github.com/iamLolade/grocerease',
+    livePreview: 'https://grocerease-admin.vercel.app',
   }
 ]
 
@@ -59,6 +59,7 @@ const skills = [
   'SASS',
   'Material UI',
   'Styled-Components',
+  'Tailwind CSS',
   'Git',
   'CI/CD',
   'Jest',
