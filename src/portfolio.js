@@ -7,9 +7,9 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Ololade Otemade',
-  role: 'Frontend Engineer',
+  role: 'Software Engineer',
   description:
-    'I am a detail-oriented software engineer dedicated to crafting user-friendly applications and delivering exceptional user experiences. Passionate about leveraging my expertise to ensure the highest standards of security in fintech development. Committed to excellence, I excel in creating quality applications that consistently exceed user expectations.',
+    'I am a detail-oriented software engineer passionate about building intuitive, high-quality applications that prioritize user experience, performance, and security. With strong expertise in fintech development and modern best practices, I focus on delivering solutions that are both user-friendly and robust. Recently, I’ve expanded my skill set into AI, integrating intelligent features that enhance usability and unlock new possibilities for businesses. Driven by excellence, I consistently aim to create applications that not only meet requirements but also exceed user expectations.',
   resume: 'https://drive.google.com/file/d/15pMxgtQ0SEZ1oGPvXYgkX63RxbOsycWN/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/ololade-otemade-72959613a/',
