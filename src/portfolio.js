@@ -10,7 +10,7 @@ const about = {
   role: 'Software Engineer',
   description:
     'I am a detail-oriented software engineer passionate about building intuitive, high-quality applications that prioritize user experience, performance, and security. With strong expertise in fintech development and modern best practices, I focus on delivering solutions that are both user-friendly and robust. Recently, I’ve expanded my skill set into AI, integrating intelligent features that enhance usability and unlock new possibilities for businesses. Driven by excellence, I consistently aim to create applications that not only meet requirements but also exceed user expectations.',
-  resume: 'https://drive.google.com/file/d/15pMxgtQ0SEZ1oGPvXYgkX63RxbOsycWN/view?usp=drive_link',
+  resume: 'https://drive.google.com/file/d/1YRubRnK__3xFSaW2vR3BqDlap2Z2z3oz/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/ololade-otemade-72959613a/',
     github: 'https://github.com/iamLolade',
@@ -37,7 +37,7 @@ const projects = [
   {
     name: 'Wordana',
     description:
-      'Wordana is a wordle game built on the Lightlink blockchain network. It leverages the API 3 Quantum Random Number Generator protocol to generate random words, creating a secure and engaging gaming experience.',
+      'Wordana is a Wordle game built on the Lightlink blockchain network. It leverages the API 3 Quantum Random Number Generator protocol to generate random words, creating a secure and engaging gaming experience.',
     stack: ['Next', 'Typescript', 'Tailwind CSS', 'Hooks'],
     sourceCode: 'https://github.com/Havorahq/wordana',
     livePreview: 'https://wordana.vercel.app/',
@@ -66,7 +66,8 @@ const skills = [
   'Jest',
   'MongoDB',
   'Node',
-  'Solidity'
+  'Solidity',
+  'Artificial Intelligence (AI)'
 ]
 
 const contact = {
