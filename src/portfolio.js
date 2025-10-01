@@ -22,15 +22,15 @@ const projects = [
     name: 'Fayoade Farms',
     description:
       "A modern, responsive website built for Fayoade Farms to showcase their agricultural products and services. Designed with performance and usability in mind, the site highlights the brand’s mission and offerings in a clean, accessible layout.",
-    stack: ['Next', 'Chakra UI', 'SEO'],
+    stack: ['Next', 'Tailwind CSS', 'SEO'],
     sourceCode: 'https://github.com/iamLolade/fayoade-farms',
     livePreview: 'https://www.fayoadefarms.com/',
   },
   {
-    name: 'NotTech Website',
+    name: 'NotTech',
     description:
       'The official website for NotTech Ltd, a software solutions company. Built with modern frontend tools, the website provides clear information on services, landing pages for products, and an optimized structure for easy navigation and visibility.',
-    stack: ['Next', 'Tailwind CSS', 'SEO'],
+    stack: ['Next', 'Tailwind CSS', 'Shadcn', 'SEO'],
     sourceCode: 'https://github.com/iamLolade/nottech-official-website',
     livePreview: 'https://www.nottechltd.com/',
   },
