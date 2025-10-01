@@ -18,31 +18,29 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
-    name: 'Fluently',
+    name: 'Fayoade Farms',
     description:
-      "Your interactive language companion for immersive learning! Engage in conversations with native speakers, refine pronunciation, access language resources, connect with tutors, and track progress for a personalized learning experience.",
-    stack: ['Chakra UI', 'Next', 'Hooks', 'SEO'],
-    sourceCode: 'https://github.com/joeephwild/fluently-app',
-    livePreview: 'https://fluently-app.vercel.app',
+      "A modern, responsive website built for Fayoade Farms to showcase their agricultural products and services. Designed with performance and usability in mind, the site highlights the brand’s mission and offerings in a clean, accessible layout.",
+    stack: ['Next', 'Chakra UI', 'SEO'],
+    sourceCode: 'https://github.com/iamLolade/fayoade-farms',
+    livePreview: 'https://www.fayoadefarms.com/',
+  },
+  {
+    name: 'NotTech Website',
+    description:
+      'The official website for NotTech Ltd, a software solutions company. Built with modern frontend tools, the website provides clear information on services, landing pages for products, and an optimized structure for easy navigation and visibility.',
+    stack: ['Next', 'Tailwind CSS', 'SEO'],
+    sourceCode: 'https://github.com/iamLolade/nottech-official-website',
+    livePreview: 'https://www.nottechltd.com/',
   },
   {
     name: 'Wordana',
     description:
-      'Wordana is a wordle game that is built on the Lightlink blockchain network. The game makes use of the API 3 Quantum Random Number Generator protocol to whip up a collection of random words.',
-    stack: ['Tailwind CSS', 'Next', 'Typescript', 'Hooks'],
+      'Wordana is a wordle game built on the Lightlink blockchain network. It leverages the API 3 Quantum Random Number Generator protocol to generate random words, creating a secure and engaging gaming experience.',
+    stack: ['Next', 'Typescript', 'Tailwind CSS', 'Hooks'],
     sourceCode: 'https://github.com/Havorahq/wordana',
     livePreview: 'https://wordana.vercel.app/',
-  },
-  {
-    name: 'Xalari',
-    description:
-      'Blockchain payroll service for the new wave of remote work. You gain the ability to hire with flexibility from any part of the world and make seamless crypto payments to your employees & contractors',
-    stack: ['Tailwind CSS', 'Next', 'Typescript', 'Hooks'],
-    sourceCode: 'https://github.com/Havorahq/payrol',
-    livePreview: 'https://app.xalari.com/',
   }
 ]
 
