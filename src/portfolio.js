@@ -35,12 +35,12 @@ const projects = [
     livePreview: 'https://www.nottechltd.com/',
   },
   {
-    name: 'Wordana',
+    name: 'Cryptic Solutions',
     description:
-      'Wordana is a Wordle game built on the Lightlink blockchain network. It leverages the API 3 Quantum Random Number Generator protocol to generate random words, creating a secure and engaging gaming experience.',
+      'Cryptic Solutions is a creative tech company that helps businesses and creators bring their ideas to life. We build clean, modern websites, develop smart software solutions, design strong brand identities, and create engaging digital content. Our focus is simple: combine strategy, creativity, and technology to help brands grow, scale, and stand out with confidence.',
     stack: ['Next', 'Typescript', 'Tailwind CSS', 'Hooks'],
-    sourceCode: 'https://github.com/Havorahq/wordana',
-    livePreview: 'https://wordana.vercel.app/',
+    sourceCode: 'https://github.com/Cryptic-decode/crypticsolutions',
+    livePreview: 'https://www.crypticsolutionsltd.com',
   }
 ]
 
@@ -67,7 +67,8 @@ const skills = [
   'MongoDB',
   'Node',
   'Solidity',
-  'Artificial Intelligence (AI)'
+  'Artificial Intelligence (AI)',
+  'Prompt Engineering'
 ]
 
 const contact = {
